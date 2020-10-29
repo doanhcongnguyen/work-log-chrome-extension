@@ -1,0 +1,43 @@
+.app-title {
+  font-size: 1.5rem;
+  padding-top: 1rem;
+  padding-left: 1rem;
+}
+
+#app-container {
+  width: 48rem;
+  height: 35rem;
+}
+
+.span-date {
+  font-size: 19px;
+}
+
+.span-date-weekend {
+  font-size: 19px;
+  font-weight: bold;
+}
+
+.span-date-no-worklog {
+  color: red;
+  font-size: 19px;
+  font-weight: bold;
+}
+
+.span-worklog {
+  color: blue;
+  margin-left: 2rem;
+}
+
+.td-today {
+  background-color: aquamarine;
+}
+
+#usernameGet {
+  font-weight: bold;
+  padding-left: 28rem;
+}
+
+#usernameInput {
+  margin-left: 15rem;
+}

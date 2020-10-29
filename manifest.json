@@ -1,0 +1,19 @@
+{
+  "name": "DZS Log work",
+  "description": "FnF team",
+  "version": "1.0",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "browser_action": {
+    "default_icon": "images/dzs.png",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "images/dzs.png",
+    "48": "images/dzs.png",
+    "128": "images/dzs.png"
+  },
+  "manifest_version": 2
+}
